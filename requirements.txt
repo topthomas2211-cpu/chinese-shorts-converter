@@ -1,0 +1,2 @@
+streamlit>=1.45,<2
+google-genai>=1.30,<2
